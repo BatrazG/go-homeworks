@@ -1,0 +1,16 @@
+# Пример файла с URL для проверки
+# Каждая строка - один URL, пустые строки и комментарии игнорируются
+
+https://google.com
+https://github.com
+https://stackoverflow.com
+https://youtube.com
+https://reddit.com
+
+# Тестовые URL для проверки ошибок
+https://nonexistent.example.com
+http://httpstat.us/404
+http://httpstat.us/500
+http://httpstat.us/200
+
+https://golang.org
